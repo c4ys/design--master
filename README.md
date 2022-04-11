@@ -1,13 +1,12 @@
-# eframe template
+# 设计大师
 
-[![dependency status](https://deps.rs/repo/github/emilk/eframe_template/status.svg)](https://deps.rs/repo/github/emilk/eframe_template)
-[![Build Status](https://github.com/emilk/eframe_template/workflows/CI/badge.svg)](https://github.com/emilk/eframe_template/actions?workflow=CI)
+像大师一样设计，下一代原型设计软件
 
-This is a template repo for [eframe](https://github.com/emilk/egui/tree/master/eframe), a framework for writing apps using [egui](https://github.com/emilk/egui/).
-
-The goal is for this to be the simplest way to get started writing a GUI app in Rust.
-
-You can compile your app natively or for the web, and share it using Github Pages.
+* 原型即代码 -- 直接导出Web/桌面/小程序/手机组件代码
+* 高复用 -- 直接使用他人写好的组件/自定义组件
+* 高性能 -- 修改立即生效，无需保存、等待
+* 低存储 -- 导出文件通常只有几十K而不是几个G
+* 多人协同设计 -- 多人同时设计同一作品
 
 ## Getting started
 
